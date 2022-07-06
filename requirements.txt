@@ -1,4 +1,4 @@
-matplotlib==3.3.4
+matplotlib==2.1.1
 numpy==1.19.5
 pandas==1.4.0
 seaborn==0.11.2
@@ -7,3 +7,7 @@ cleverhans==4.0.0
 pymoo==0.4.0
 scikit-learn==1.0.2
 tqdm==4.62.3
+uncertainty_wizard==0.2.0
+pyquaternion 
+pymoo==0.4 
+plot-keras-history
