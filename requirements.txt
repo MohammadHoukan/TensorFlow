@@ -11,3 +11,4 @@ uncertainty_wizard==0.2.0
 pyquaternion 
 pymoo==0.4 
 plot-keras-history
+tensorflow_gpu==2.7
