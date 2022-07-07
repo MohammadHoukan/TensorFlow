@@ -9,3 +9,4 @@ scikit-learn==1.0.2
 tqdm==4.62.3
 dill
 uncertainty_wizard
+plot_keras_history
