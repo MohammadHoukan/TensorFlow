@@ -1,0 +1,10 @@
+matplotlib==3.3.4
+numpy==1.19.5
+pandas==1.4.0
+seaborn==0.11.2
+tensorflow-gpu==2.7.0
+cleverhans==4.0.0
+pymoo==0.4.0
+scikit-learn==1.0.2
+tqdm==4.62.3
+dill
