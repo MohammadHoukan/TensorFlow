@@ -10,3 +10,4 @@ tqdm==4.62.3
 dill
 uncertainty_wizard
 plot_keras_history
+gdown
