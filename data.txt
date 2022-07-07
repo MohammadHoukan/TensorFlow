@@ -1,2 +1,0 @@
-EXPERIMENT_SIZE,SAMPLE_SIZE,percentage,noise_budget,T,alpha,beta
-40,40,1,0.3,40,0.9,0.3
